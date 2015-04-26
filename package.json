@@ -1,0 +1,20 @@
+{
+  "name": "nodeular-module-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "nodeular-config": "git://github.com/jagreehal/nodeular-config",
+    "nodeular-core": "git://github.com/jagreehal/nodeular-core"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "supertest": "^0.15.0"
+  }
+}
